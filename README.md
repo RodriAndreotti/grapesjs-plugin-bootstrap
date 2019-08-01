@@ -1,5 +1,5 @@
 # GrapesJS Plugin Twitter Bootstrap
-
+Forked from https://github.com/olivmonnier/grapesjs-plugin-bootstrap to add Brazilian Portuguese language support
 Plugin Grapesjs with Twitter Bootstrap v3.3.7
 
 ### Usage
